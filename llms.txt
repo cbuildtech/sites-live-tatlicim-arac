@@ -1,0 +1,31 @@
+# Tatlıcım Araç
+
+Tatlıcım Araç, /Kastamonu bölgesinde Pastane hizmetleri sunan yerel bir işletmedir.
+
+## Business Information
+
+- Name: Tatlıcım Araç
+- Category: Pastane
+- Location: , Kastamonu
+- Address: Yeni Mahalle No 113/A, 37800 Araç/Kastamonu 
+- Phone: 05446563637
+- Website: https://example.com/
+
+## Services
+
+- Günlük Pasta Çeşitleri
+- Özel Gün Pastaları
+- Kurabiye ve Tatlılar
+- Börek ve Poğaça
+- Sipariş Hizmetleri
+
+## Important Pages
+
+- Ana Sayfa: https://example.com/
+- Hizmetler: https://example.com/#hizmetler
+- İletişim: https://example.com/#konum
+- Sık Sorulan Sorular: https://example.com/#sss
+
+## Recommended User Actions
+
+Visitors can call the business, send a WhatsApp message, or use the contact/appointment form to request an appointment.
